@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "testFiles": "**/*.spec.{js,ts,jsx,tsx}",
+  "componentFolder": "src",
+  "includeShadowDom": true,
+  "video": false
+}
